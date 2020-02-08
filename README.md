@@ -1,4 +1,4 @@
-# Gradient-Decent
+# Gradient Descent
 coding in gradient descent without external libraries to fit a data set
 
 using skeleton code, I added in the loss function and the gradient decent function using vector multiplication
